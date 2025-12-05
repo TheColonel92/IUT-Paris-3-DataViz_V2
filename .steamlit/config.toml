@@ -1,0 +1,40 @@
+# This is a TOML document
+
+[client]
+showErrorDetails = "none"
+
+[theme]
+# Primary accent color.
+primaryColor = "#4bc0ad"
+
+# Background color of the app.
+#backgroundColor = "#65696e"
+
+# This defaults to the resolved value of `blueTextColor`.
+linkColor = "#00205b"
+
+[theme.sidebar]
+# Primary accent color.
+primaryColor = "#00205b"
+
+# Background color of the app.
+backgroundColor = "#004fa3"
+
+# Background color used for most interactive widgets.
+secondaryBackgroundColor = "gold"
+
+# Color used for almost all text.
+textColor = "white"
+
+# This defaults to the resolved value of `blueTextColor`.
+linkColor = "#4bc0ad"
+
+#[theme.case_ratp]
+# Primary accent color.
+#primaryColor = "#004fa3"
+
+# Background color of the app.
+#backgroundColor = "#4bc0ad"
+
+# This defaults to the resolved value of `blueTextColor`.
+#linkColor = "#004fa3"
